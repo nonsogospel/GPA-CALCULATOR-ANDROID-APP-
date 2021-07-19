@@ -1,2 +1,2 @@
 # GPA-CALCULATOR
-Android App (PhoneGap)
+Android App (Phonegap)
