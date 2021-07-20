@@ -1,0 +1,11 @@
+{
+	"android": {
+		"release": {
+			"keystore": "app-key.keystore",
+			"storePassword": "myoyonche",
+			"alias": "app-key",
+			"password" : "myoyonche",
+			"keystoreType": ""
+		}
+	}
+}
